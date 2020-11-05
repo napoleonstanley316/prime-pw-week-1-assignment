@@ -38,4 +38,4 @@ It adds new or changed files to the Git staging area.
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 
-commit
+push -u origin master
